@@ -27,7 +27,7 @@ export default function ResultsPage() {
     return <div className="text-center text-2xl mt-10">جاري تحميل النتائج...</div>;
   }
 
-  const shareUrl = typeof window !== 'undefined' ? window.location.href : '';
+  const shareUrl = 'https://lexarabic.netlify.app';
   const shareTitle = `حصلت على ${result.score}٪ في اختبار كَلِم (LexArabic)!`;
 
   const formatTime = (seconds: number) => {
