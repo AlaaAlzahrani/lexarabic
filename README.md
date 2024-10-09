@@ -1,12 +1,14 @@
 # LexArabic: اختبار كَلِم
 
-LexArabic is a quick and validated vocabulary test designed to assess Arabic proficiency for both native and non-native adult Arabic speakers. This web-based tool provides an efficient and reliable method to evaluate Arabic language skills.
 
-<br> 
+<div align="center">
+  <img src="public\landing_page_lexarabic.png" alt="LexArabic Landing Page" width="600" style="border-radius: 10px;">
+</div>
 
-![LexArabic Screenshot](public\landing_page_lexarabic.png)
 
 <br>
+
+LexArabic is a quick and validated vocabulary test designed to assess Arabic proficiency for both native and non-native adult Arabic speakers. In this project, we developed a web-based LexArabic test to provide Arabic speakers with an efficient and reliable method to evaluate their Arabic language skills.
 
 ## Features
 
