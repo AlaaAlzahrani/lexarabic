@@ -12,7 +12,7 @@ const AboutPage = () => {
           <div className="p-6 md:p-8 text-right">
             <h2 className="text-xl font-semibold mb-4">LexArabic: اختبار كَلِم</h2>
             <p className="text-lg mb-4 leading-relaxed">
-              هذا الموقع هو النسخة الإلكترونية للاختبار LexArabic الذي نُشر في مجلة Behavior Research Methods بعنوان "LexArabic: A receptive vocabulary size test to estimate Arabic proficiency". 
+              هذا الموقع هو النسخة الإلكترونية للاختبار LexArabic الذي نُشر في مجلة Behavior Research Methods بعنوان <span className="text-purple-800">LexArabic: A receptive vocabulary size test to estimate Arabic proficiency</span>. 
             </p>
             <p className="text-lg leading-relaxed">
                صُمم هذا الاختبار لقياس كفاءة اللغة العربية للناطقين بها لغة أولى أو ثانية من خلال تقييم حجم المفردات المستقبلة.
